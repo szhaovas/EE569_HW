@@ -1,0 +1,12 @@
+## EE569_HW
+- HW1 ~ HW4 written in MATLAB
+  - The substitution of inbuilt functions with self-defined ones was intentional, since it was required by the class.
+  - `prob1.m` for Problem 1, `prob2.m` for Problem 2 etc. Each self-contained and can be run independently.
+  - HW1 Demosaicing, Contrast Enhancement, Denoising
+  - HW2 Classical & SE Edge Detection, Digital & Color Half Toning
+  - HW3 Geometric Morphing, Paranoma, Morphological Processing
+  - HW4 Texture Classification & Segmentation, SIFT, BoW Classification
+- HW5 in python
+  - LeNet-5 Image Classification
+- HW6 in python notebook
+  - PixelHop & PixelHop++ Image Classification
