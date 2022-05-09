@@ -1,4 +1,4 @@
-## EE569_HW
+## Homeworks for USC EE569 by Prof. Jay Kuo
 - HW1 ~ HW4 written in MATLAB
   - The substitution of inbuilt functions with self-defined ones was intentional, since it was required by the class.
   - `prob1.m` for Problem 1, `prob2.m` for Problem 2 etc. Each self-contained and can be run independently.
