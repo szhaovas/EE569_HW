@@ -1,12 +1,18 @@
-## Homeworks for USC EE569 by Prof. Jay Kuo
-- HW1 ~ HW4 written in MATLAB
-  - The substitution of inbuilt functions with self-defined ones was intentional, since it was required by the class.
-  - `prob1.m` for Problem 1, `prob2.m` for Problem 2 etc. Each self-contained and can be run independently.
-  - HW1 Demosaicing, Contrast Enhancement, Denoising
-  - HW2 Classical & SE Edge Detection, Digital & Color Half Toning
-  - HW3 Geometric Morphing, Paranoma, Morphological Processing
-  - HW4 Texture Classification & Segmentation, SIFT, BoW Classification
-- HW5 in python
-  - LeNet-5 Image Classification
-- HW6 in python notebook
-  - PixelHop & PixelHop++ Image Classification
+## EE569计算机图像处理 (Prof. Jay Kuo) 作业题解
+- 实验报告均以`<hw?_writeup.pdf>`命名，包含了脚本运行结果和解释
+- 所有脚本均独立完成
+- 作业1 ～ 作业4 (MATLAB)题解
+  - 为了加深理解，很多地方使用了比较基础的写法
+  - 作业1
+    - 去马赛克，CLAHE对比度增强，双边滤波，NLM滤波
+  - 作业2
+    - Canny与SE边缘检测，模版矩阵与误差分散半色调
+  - 作业3
+    - 图像几何变形，Panaroma，hit-miss形态处理
+  - 作业4
+    - Laws纹理滤波，SIFT特征匹配与分类
+- 作业5 ~ 作业6 (python) 题解
+  - 作业5
+    - LeNet-5 图像分类
+  - 作业6
+    - PixelHop 图像分类
