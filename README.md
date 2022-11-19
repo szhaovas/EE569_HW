@@ -1,6 +1,6 @@
 ## Homeworks for USC EE569 by Prof. Jay Kuo
 - HW1 ~ HW4 written in MATLAB
-  - The substitution of inbuilt functions with self-defined ones was intentional, since it was required by the class.
+  - Class required not using high-level inbuilt functions, so might look a bit chunky...
   - `prob1.m` for Problem 1, `prob2.m` for Problem 2 etc. Each self-contained and can be run independently.
   - HW1 Demosaicing, Contrast Enhancement, Denoising
   - HW2 Classical & SE Edge Detection, Digital & Color Half Toning
